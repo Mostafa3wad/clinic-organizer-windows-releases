@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.55",
-    "fileName":  "ClinicOrganizer-Setup-0.3.55.exe",
+    "version":  "0.3.60",
+    "fileName":  "ClinicOrganizer-Setup-0.3.60.exe",
     "size":  "40.3 MB",
-    "sizeBytes":  42277008,
-    "sha256":  "4f31a709e933442d4684c1160880e60bd454bd753fd98af6f9e934922bfd844d",
-    "downloadUrl":  "https://github.com/Mostafa3wad/clinic-organizer-windows-releases/releases/download/v0.3.55/ClinicOrganizer-Setup-0.3.55.exe",
-    "publishedAt":  "2026-10-27T14:53:47.0956081Z"
+    "sizeBytes":  42290570,
+    "sha256":  "5fdd3b3e10295dec0d82e3f35af6ebbf67173bb66109a118af20f010967dc2b0",
+    "downloadUrl":  "https://github.com/Mostafa3wad/clinic-organizer-windows-releases/releases/download/v0.3.60/ClinicOrganizer-Setup-0.3.60.exe",
+    "publishedAt":  "2026-11-02T14:47:55.3484349Z"
 }
